@@ -1,0 +1,23 @@
+img{
+    width: 600px;
+    height: auto;
+}
+
+.heading{
+    color: brown;
+}
+
+.items{
+    border: black solid;
+    background-color: lightcoral;
+    padding-left: 5px;
+    
+}
+h1{
+    background-color: blanchedalmond;
+    font-size: 50px;
+}
+.index{
+    display: border-box;
+    background-color: antiquewhite;
+}
